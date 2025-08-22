@@ -1,2 +1,2 @@
-# Huitong_Course
-The repository for Huitong AI course
+# High-School-AI-Course
+The repository for high school AI course
